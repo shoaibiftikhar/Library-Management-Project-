@@ -7,7 +7,6 @@
 **Database**: `library_db`
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, The goal is to showcase skills in database design, manipulation, and querying.
-
 ## Objectives
 
 1. **Set up the Library Management System Database**: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
@@ -16,7 +15,7 @@ This project demonstrates the implementation of a Library Management System usin
 4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
 
 ## Project Structure
-
+https://github.com/shoaibiftikhar/Library-Management-Project-.git
 ### 1. Database Setup
 <img width="638" height="401" alt="ERD Schemas" src="https://github.com/user-attachments/assets/ed97a0b0-ee09-4b2b-af0a-45bd5693fada" />
 
@@ -267,7 +266,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```sh
-   git clone https://github.com/najirh/Library-System-Management---P2.git
+  https://github.com/shoaibiftikhar/Library-Management-Project-.git
    ```
 
 2. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
